@@ -1,0 +1,72 @@
+.container[data-v-25bcfa6e] {
+  height: 100%;
+  background-color: #747d8c;
+}
+.loginBox[data-v-25bcfa6e] {
+  width: 500px;
+  height: 350px;
+  background-color: azure;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 5px;
+}
+.loginForm[data-v-25bcfa6e] {
+  width: 100%;
+  position: absolute;
+  bottom: 10%;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.loginBtn[data-v-25bcfa6e],
+.logo[data-v-2a1ef5ae] {
+  display: flex;
+  justify-content: center;
+}
+.logo[data-v-2a1ef5ae] {
+  height: 48px;
+  margin: 16px;
+  color: #ffd04b;
+  align-items: center;
+  font-size: 16px;
+}
+.footer[data-v-4c68bfca] {
+  background-color: #ccc;
+  text-align: center;
+}
+.footer span[data-v-4c68bfca] {
+  height: 100%;
+  font-size: 10px;
+}
+.container[data-v-4a004a7f] {
+  height: 100%;
+}
+.ant-layout-footer[data-v-4a004a7f] {
+  padding: 0 !important;
+}
+.header-btn[data-v-4a004a7f] {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.actionSlot[data-v-3d73688b],
+.actionSlot[data-v-7aef5d66],
+.actionSlot[data-v-33d3f7bf] {
+  display: flex;
+  justify-content: center;
+}
+#app,
+body,
+thml {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.ant-card {
+  margin: 10px;
+  background-color: #fff;
+}
+.ant-table {
+  margin-top: 15px;
+}
